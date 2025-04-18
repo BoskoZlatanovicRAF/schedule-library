@@ -1,0 +1,9 @@
+{
+  "mandatoryFields": {
+    "place": "Ucionica",
+    "start": "Pocetak",
+    "end": "Kraj",
+    "room": "Racunar",
+    "DayOfWeek": "DayOfWeek"
+  }
+}

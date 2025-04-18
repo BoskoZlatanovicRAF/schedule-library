@@ -1,0 +1,38 @@
+[
+  {
+    "Ucionica": "RAF5",
+    "Pocetak": "09:15",
+    "Kraj": "11:00",
+    "DayOfWeek": "Monday",
+    "Predmet": "MAT",
+    "Profesor": "Nikola Petrovic",
+    "Racunar": "NE"
+  },
+  {
+    "Ucionica": "RAF6",
+    "Pocetak": "11:15",
+    "Kraj": "14:00",
+    "DayOfWeek": "Tuesday",
+    "Predmet": "PRJ",
+    "Profesor": "Ivana Zivkovic",
+    "Racunar": "DA"
+  },
+  {
+    "Ucionica": "RAF1",
+    "Pocetak": "14:15",
+    "Kraj": "16:00",
+    "DayOfWeek": "Wednesday",
+    "Predmet": "OOP",
+    "Profesor": "Zoran Markovic",
+    "Racunar": "NE"
+  },
+  {
+    "Ucionica": "RAF3",
+    "Pocetak": "16:15",
+    "Kraj": "18:00",
+    "DayOfWeek": "Thursday",
+    "Predmet": "WEB",
+    "Profesor": "Maja Kostic",
+    "Racunar": "DA"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "mandatoryFields": {
+    "place": "Classroom",
+    "start": "Start",
+    "end": "End",
+    "room": "Computer"
+  }
+}
